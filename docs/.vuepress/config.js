@@ -26,7 +26,7 @@ function getSidebar(folder) {
 export default defineUserConfig({
   lang: 'zh-CN',
   title: '室内定位技术',
-  description: '室内定位算法、论文、项目分享',
+  description: '蓝牙|WiFi|UWB|LED|IMU|Beacon|多源融合|室内定位算法|论文|项目',
   theme: defaultTheme({
     logo: 'https://lark-assets-prod-aliyun.oss-cn-hangzhou.aliyuncs.com/yuque/0/2024/jpeg/354158/1717584738049-5a4ffdae-d469-44a9-b298-f86934b6e14c.jpeg?date=1717585212400',
     navbar: [
