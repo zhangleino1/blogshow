@@ -7,7 +7,7 @@ actions:
     link: /getting-started.html
     type: primary
 
-  - text: Github
+  - text: 开源项目
     link: https://github.com/zhangleino1
     type: secondary
 
@@ -33,4 +33,4 @@ features:
     details: 探讨多种室内定位技术的融合应用，通过 WiFi、UWB、IMU 等技术的结合，实现更高精度和更稳定的定位效果。
 
 
-footer: MIT Licensed | Copyright © 2018-present VuePress Community
+footer: Copyright © 2024 公众号：程序员石磊
