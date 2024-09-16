@@ -1,0 +1,6 @@
+__pycache__
+.history
+node_modules
+docs/.vuepress/.cache
+docs/.vuepress/.temp
+docs/.vuepress/dist
