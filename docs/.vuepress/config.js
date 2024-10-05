@@ -31,12 +31,13 @@ export default defineUserConfig({
     logo: 'https://lark-assets-prod-aliyun.oss-cn-hangzhou.aliyuncs.com/yuque/0/2024/jpeg/354158/1717584738049-5a4ffdae-d469-44a9-b298-f86934b6e14c.jpeg?date=1717585212400',
     navbar: [
       { text: '首页', link: '/' },
-      { text: '论文总结', link: '/papers/' },
+      { text: '室内定位论文', link: '/papers/' },
+      { text: '大模型论文', link: '/llm/' },
       { text: '开源项目', link: 'https://github.com/zhangleino1' },
       { text: '商务合作', link: '/商务合作.md' },
     ],
     sidebar: {
-      '/papers/': getSidebar('papers')
+      '/papers/': getSidebar('papers'),'/llm/': getSidebar('llm'),
     }
   }),
   bundler: viteBundler(),

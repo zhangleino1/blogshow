@@ -3,12 +3,12 @@ home: true
 title: Home
 heroImage: https://lark-assets-prod-aliyun.oss-cn-hangzhou.aliyuncs.com/yuque/0/2024/jpeg/354158/1717584738049-5a4ffdae-d469-44a9-b298-f86934b6e14c.jpeg?date=1717585212400
 actions:
-  - text: 最新论文
+  - text: 室内定位
     link: /papers/
     type: primary
 
-  - text: 开源项目
-    link: https://github.com/zhangleino1
+  - text: 大模型
+    link: /llm/
     type: secondary
 
 features:
